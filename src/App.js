@@ -3,12 +3,14 @@ import './App.css';
 import './components/Greet';
 import Greet from './components/Greet';
 import Navbar from './components/Navbar/Navbar';
+import Cards from './components/Cards'
 
 function App() {
   return (
     <div className="App">
       <Greet />
       <Navbar />
+      {/* <Cards /> */}
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

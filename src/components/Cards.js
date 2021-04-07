@@ -1,4 +1,5 @@
 import React from 'react';
+// import Styles from './Cards.css';
 
 const Cards = () =>
 // Creative Product Card UI Design
@@ -8,7 +9,7 @@ const Cards = () =>
     <div class="container">
       <div class="card">
         <div class="imgBx">
-          <img src="images/sneaker.png" id="sneaker">
+          <img src="images/sneaker.png" id="sneaker"/>
         </div>
       <div class="contentBx">
         <h2>Nike Shoes</h2>
@@ -26,15 +27,15 @@ const Cards = () =>
             <span></span>
           </div>
           <a href="#">Buy Now</a>
-        </div> <!--contentBx-->
-      </div> <!--card-->
-    </div> <!--container-->
-  </div> <!--//column-->
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="column">
     <div class="container">
       <div class="card">
         <div class="imgBx">
-          <img src="images/sneaker.png" id="sneaker">
+          <img src="images/sneaker.png" id="sneaker"/>
         </div>
         <div class="contentBx">
           <h2>Nike Shoes</h2>
@@ -52,15 +53,15 @@ const Cards = () =>
               <span></span>
             </div> //color
             <a href="#">Buy Now</a>
-        </div> <!--contentBx-->
-      </div> <!--card-->
-    </div> <!--container-->
-  </div> <!--column-->
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="column">
     <div class="container">
       <div class="card">
         <div class="imgBx">
-          <img src="images/sneaker.png" id="sneaker">
+          <img src="images/sneaker.png" id="sneaker"/>
         </div>
         <div class="contentBx">
           <h2>Nike Shoes</h2>
@@ -78,15 +79,15 @@ const Cards = () =>
               <span></span>
             </div> //color
             <a href="#">Buy Now</a>
-        </div> <!--contentBx-->
-      </div> <!--card-->
-    </div> <!--container-->
-  </div> <!--column-->
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="column">
     <div class="container">
       <div class="card">
         <div class="imgBx">
-          <img src="images/sneaker.png" id="sneaker">
+          <img src="images/sneaker.png" id="sneaker"/>
         </div>
         <div class="contentBx">
           <h2>Nike Shoes</h2>
@@ -104,10 +105,10 @@ const Cards = () =>
               <span></span>
             </div> //color
             <a href="#">Buy Now</a>
-        </div> <!--contentBx-->
-      </div> <!--card-->
-    </div> <!--container-->
-  </div> <!--column-->
-</div> <!--row--></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 export default Cards
