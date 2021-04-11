@@ -7,6 +7,6 @@ import React from 'react';
 const Greet = () => <h1>Hello Andrew</h1>
 export default Greet
 
-const Message = () =>
-<p> This is where I practice my Javascript and React frontend development</p>
-export default Message
+// const Message = () =>
+// <p> This is where I practice my Javascript and React frontend development</p>
+// export default Message
